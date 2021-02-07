@@ -17,7 +17,7 @@
 -->
 
 <h2>(Saludos)🙏🏻, Hi, I'm Charly! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<img align='right' src="https://user-images.githubusercontent.com/36426423/107154070-8bd3dc00-6936-11eb-897e-0da57b2de5ef.jpeg" width="230">
 <p><em>Software Developer at <a href="http://www.signot.com/">Signot</a> 
 </em></p>
 
