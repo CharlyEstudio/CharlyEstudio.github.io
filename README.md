@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, I'm Charly 👋
+
+![charly](https://user-images.githubusercontent.com/36426423/107154070-8bd3dc00-6936-11eb-897e-0da57b2de5ef.jpeg)
 
 <!--
 **CharlyEstudio/CharlyEstudio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
