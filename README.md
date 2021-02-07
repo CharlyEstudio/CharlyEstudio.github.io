@@ -1,7 +1,8 @@
 <p align="center">
- <img width="100px" src="https://user-images.githubusercontent.com/36426423/107154070-8bd3dc00-6936-11eb-897e-0da57b2de5ef.jpeg" align="center" alt="Github Readme Stats" />
+ <img width="100px" style="border-radius: 50%" src="https://user-images.githubusercontent.com/36426423/107154070-8bd3dc00-6936-11eb-897e-0da57b2de5ef.jpeg" align="center" alt="Github Charly Ramirez" />
  <h2 align="center">Profile</h2>
 </p>
+
 ### Hi there 👋 I'm [Charly Ramirez](https://www.facebook.com/JCharlyR)
 > Software Developer at [Signot](http://www.signot.com/)
 
