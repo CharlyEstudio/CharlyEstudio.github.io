@@ -44,6 +44,17 @@ const charlyRamirez = {
 };
 ```
 
+<h3> 🤝🏻 Connect with Me </h3>
+
+<p align="center">
+<a href="https://www.facebook.com/JCharlyR" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Contact-JCharlyR-blue?style=flat&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/charlyramirez/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@charlyramirez-blue?style=flat&logo=linkedin"></a>
+<a href="mailto:pingestudio@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-pingestudio@gmail.com-blue?style=flat&logo=gmail"></a>
+</p>
+
+
+⭐️ From [@CharlyEstudio](https://github.com/CharlyEstudio)
+
 
 📊 **This week I spent my time on** 
 
