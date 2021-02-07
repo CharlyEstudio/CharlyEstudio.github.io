@@ -25,7 +25,6 @@
 [![Linkedin: charlyramirez](https://img.shields.io/badge/-charlyramirez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/charlyramirez/)](https://www.linkedin.com/in/charlyramirez/)
 ![GitHub followers](https://img.shields.io/github/followers/CharlyEstudio?label=follow&style=plastic)
 ![](https://visitor-badge.glitch.me/badge?page_id=CharlyEstudio.CharlyEstudio)
-![Waka Readme](https://github.com/CharlyEstudio/CharlyEstudio/workflows/CharlyEstudio%20Readme/badge.svg)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
