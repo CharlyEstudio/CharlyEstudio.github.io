@@ -22,7 +22,7 @@
 </em></p>
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/Charly15442?label=follow&style=plastic)
-[![Linkedin: charlyramirez](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/charlyramirez/)](https://www.linkedin.com/in/charlyramirez/)
+[![Linkedin: charlyramirez](https://img.shields.io/badge/-charlyramirez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/charlyramirez/)](https://www.linkedin.com/in/charlyramirez/)
 ![GitHub followers](https://img.shields.io/github/followers/CharlyEstudio?label=follow&style=plastic)
 ![](https://visitor-badge.glitch.me/badge?page_id=CharlyEstudio.CharlyEstudio)
 ![Waka Readme](https://github.com/CharlyEstudio/CharlyEstudio/workflows/CharlyEstudio%20Readme/badge.svg)
