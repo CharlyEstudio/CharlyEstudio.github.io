@@ -1,7 +1,7 @@
-<p align="center">
- <img width="100px" style="border-radius: 50%" src="https://user-images.githubusercontent.com/36426423/107154070-8bd3dc00-6936-11eb-897e-0da57b2de5ef.jpeg" align="center" alt="Github Charly Ramirez" />
+<!--<p align="center">
+ <img width="100px" src="https://user-images.githubusercontent.com/36426423/107154070-8bd3dc00-6936-11eb-897e-0da57b2de5ef.jpeg" align="center" alt="Github Charly Ramirez" />
  <h2 align="center">Profile</h2>
-</p>
+</p>-->
 
 ### Hi there 👋 I'm [Charly Ramirez](https://www.facebook.com/JCharlyR)
 > Software Developer at [Signot](http://www.signot.com/)
@@ -11,26 +11,32 @@
 ![GitHub followers](https://img.shields.io/github/followers/CharlyEstudio?label=follow&style=plastic)
 ![](https://visitor-badge.glitch.me/badge?page_id=CharlyEstudio.CharlyEstudio)
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### Github Stats
+[![CharlyEstudio's GitHub stats](https://github-readme-stats.vercel.app/api?username=CharlyEstudio)](https://github.com/CharlyEstudio/github-readme-stats)
+
+### Github Repos
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CharlyEstudio&repo=React-with-SocketIO&show_owner=true)](https://github.com/CharlyEstudio/React-with-SocketIO)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CharlyEstudio&repo=patrones_diseno_javascript&show_owner=true)](https://github.com/CharlyEstudio/patrones_diseno_javascript)
 
 ```javascript
-const anmol = {
+const charlyRamirez = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Typescript", "Python", "Java", "php"],
-    askMeAbout: ["web dev", "tech", "app dev", "photography"],
+    code: ["Javascript", "Typescript", "Python", "Java", "Dart", "php"],
+    askMeAbout: ["web dev", "tech", "app dev"],
     technologies: {
-        mobileApp: ["Android App"],
+        mobileApp: ["ReactNative App", "Ionic App", "Flutter App"],
         frontEnd: {
-            js: ["Vue", "Nuxt"],
-            css: ["materialize", "vuetify", "bootstrap"]
+            js: ["Angular", "ReactJS"],
+            css: ["PrimeNG", "AntD", "Bootstrap"]
         },
         backEnd: {
-            js: ["node", "express", "SuiteScript"],
-            python: ["flask"]
+            js: ["node", "express", "NestJS"],
+            python: ["flask"],
+            java: ["SpringBoot", "Spring Cloud"]
         },
-        devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
+        devOps: ["AWS", "Docker🐳", "Route53", "DigitalOcean", "Apache"],
         databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
+        misc: ["Firebase", "Socket.IO", "php"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
     currentProject: "I am developing Extension for NetSuite using SuiteScript2.0",
@@ -38,22 +44,8 @@ const anmol = {
 };
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
-
----
-<!--START_SECTION:waka-->
-**I'm an early 🐤** 
-
-```text
-🌞 Morning    95 commits     ██████████████░░░░░░░░░░░   30.55% 
-🌆 Daytime    78 commits     ██████░░░░░░░░░░░░░░░░░░░   25.08% 
-🌃 Evening    112 commits    █████████░░░░░░░░░░░░░░░░   36.01% 
-🌙 Night      26 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.36%
-
-```
-
 
 📊 **This week I spent my time on** 
 
 ```text
-⌚︎ Timezone: Asia/Calcutta
+⌚︎ Timezone: America/Ciudad_Mexico
