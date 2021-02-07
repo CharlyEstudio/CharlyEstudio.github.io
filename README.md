@@ -14,6 +14,12 @@
 ### Github Stats
 [![CharlyEstudio's GitHub stats](https://github-readme-stats.vercel.app/api?username=CharlyEstudio)](https://github.com/CharlyEstudio/github-readme-stats)
 
+### Show More Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharlyEstudio&langs_count=8)](https://github.com/CharlyEstudio/github-readme-stats)
+
+### Wakatime Week Stats
+[![CharlyEstudio's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=CharlyEstudio)](https://github.com/CharlyEstudio/github-readme-stats)
+
 ### Github Repos
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CharlyEstudio&repo=React-with-SocketIO&show_owner=true)](https://github.com/CharlyEstudio/React-with-SocketIO)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CharlyEstudio&repo=patrones_diseno_javascript&show_owner=true)](https://github.com/CharlyEstudio/patrones_diseno_javascript)
