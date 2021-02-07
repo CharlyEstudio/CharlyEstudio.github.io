@@ -58,6 +58,7 @@ const charlyRamirez = {
 <a href="mailto:pingestudio@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-pingestudio@gmail.com-blue?style=flat&logo=gmail"></a>
 </p>
 
+### Git Status
 ![build](https://github.com/CharlyEstudio/CharlyEstudio/workflows/build/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/CharlyEstudio/CharlyEstudio)
 
