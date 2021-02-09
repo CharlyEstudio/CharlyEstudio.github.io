@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm [Charly Ramirez](https://www.facebook.com/JCharlyR)
-> Software Developer at [Signot](http://www.signot.com/)
+> FullStack Software Developer at [Signot](http://www.signot.com/)
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/Charly15442?label=follow)
 [![Linkedin: charlyramirez](https://img.shields.io/badge/-charlyramirez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/charlyramirez/)](https://www.linkedin.com/in/charlyramirez/)
@@ -40,7 +40,7 @@ const charlyRamirez = {
         misc: ["Firebase", "Socket.IO", "php"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentProject: "I am developing Extension for NetSuite using SuiteScript2.0",
+    currentProject: "I am developing an Extension for NetSuite using SuiteScript2.0",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
