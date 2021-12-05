@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm [Charly Ramirez](https://www.facebook.com/JCharlyR)
-> Senior Software Developer at [TCPIP](https://www.tcpip.tech/)
+> Senior Software Developer at [Neoris](https://www.neoris.com/)
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/Charly15442?label=follow)
 [![Linkedin: charlyramirez](https://img.shields.io/badge/-charlyramirez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/charlyramirez/)](https://www.linkedin.com/in/charlyramirez/)
@@ -25,7 +25,7 @@ const charlyRamirez = {
     code: ["Javascript", "Typescript", "Python", "Java", "Dart", "php"],
     askMeAbout: ["web dev", "tech", "app dev"],
     technologies: {
-        mobileApp: ["ReactNative App", "Ionic App", "Flutter App"],
+        mobileApp: ["ReactNative App", "Flutter App", "Ionic App"],
         frontEnd: {
             js: ["Angular", "ReactJS"],
             css: ["PrimeNG", "AntD", "Bootstrap"]
@@ -33,11 +33,11 @@ const charlyRamirez = {
         backEnd: {
             js: ["node", "express", "NestJS"],
             python: ["flask"],
-            java: ["SpringBoot", "Spring Cloud"]
+            java: ["SpringBoot", "Spring Cloud", "Eureka", "Zluut"]
         },
         devOps: ["AWS", "Docker🐳", "Route53", "DigitalOcean", "Apache"],
-        databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase", "Socket.IO", "php"]
+        databases: ["mongo", "MySql", "Oracle", "sqlite"],
+        misc: ["Socket.IO", "Firebase", "PHP"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
     currentProject: "I am developing an Extension for NetSuite using SuiteScript2.0",
