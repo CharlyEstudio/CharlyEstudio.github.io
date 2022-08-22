@@ -21,7 +21,7 @@ body {
 
 header {
   height: 100vh !important;
-  background-image: url("../assets/hero/hero_bk.png");
+  background-image: url("https://raw.githubusercontent.com/CharlyEstudio/CharlyEstudio.github.io/main/assets/hero/hero_bk.png");
   background-repeat: no-repeat;
   background-size: cover;
   object-fit: cover; }
@@ -430,7 +430,7 @@ body::-webkit-scrollbar-track {
             .nav__links ul li a .reset-responsive {
               display: block !important; } }
   .nav__links--blank {
-    cursor: url("../assets/cursor/cursor.png"), pointer; }
+    cursor: url("https://raw.githubusercontent.com/CharlyEstudio/CharlyEstudio.github.io/main/assets/cursor/cursor.png"), pointer; }
 
 .hero {
   width: 100%;
@@ -1262,55 +1262,55 @@ body::-webkit-scrollbar-track {
       object-fit: cover;
       background-position: center; }
     .projects__card--three {
-      background-image: linear-gradient(180deg, rgba(255, 255, 255, 0.01) 60%, black 100%), url("../assets/projects/flutter-app.jpg");
-      background-image: -moz-linear-gradient(180deg, rgba(0, 0, 0, 0.01) 60%, black 100%), url("../assets/projects/flutter-app.jpg");
-      background-image: -webkit-linear-gradient(270deg, rgba(0, 0, 0, 0.01) 60%, #000000 100%), url("../assets/projects/flutter-app.jpg");
-      background: -webkit-linear-gradient(270deg, rgba(0, 0, 0, 0.01) 60%, #000000 100%), url("../assets/projects/flutter-app.jpg");
+      background-image: linear-gradient(180deg, rgba(255, 255, 255, 0.01) 60%, black 100%), url("https://raw.githubusercontent.com/CharlyEstudio/CharlyEstudio.github.io/main/assets/projects/flutter-app.jpg");
+      background-image: -moz-linear-gradient(180deg, rgba(0, 0, 0, 0.01) 60%, black 100%), url("https://raw.githubusercontent.com/CharlyEstudio/CharlyEstudio.github.io/main/assets/projects/flutter-app.jpg");
+      background-image: -webkit-linear-gradient(270deg, rgba(0, 0, 0, 0.01) 60%, #000000 100%), url("https://raw.githubusercontent.com/CharlyEstudio/CharlyEstudio.github.io/main/assets/projects/flutter-app.jpg");
+      background: -webkit-linear-gradient(270deg, rgba(0, 0, 0, 0.01) 60%, #000000 100%), url("https://raw.githubusercontent.com/CharlyEstudio/CharlyEstudio.github.io/main/assets/projects/flutter-app.jpg");
       background-repeat: no-repeat;
       background-size: cover;
       object-fit: cover;
       background-position: center; }
     .projects__card--four {
-      background-image: linear-gradient(180deg, rgba(255, 255, 255, 0.01) 60%, black 100%), url("../assets/projects/terraform-aws.png");
-      background-image: -moz-linear-gradient(180deg, rgba(0, 0, 0, 0.01) 60%, black 100%), url("../assets/projects/terraform-aws.png");
-      background-image: -webkit-linear-gradient(270deg, rgba(0, 0, 0, 0.01) 60%, #000000 100%), url("../assets/projects/terraform-aws.png");
-      background: -webkit-linear-gradient(270deg, rgba(0, 0, 0, 0.01) 60%, #000000 100%), url("../assets/projects/terraform-aws.png");
+      background-image: linear-gradient(180deg, rgba(255, 255, 255, 0.01) 60%, black 100%), url("https://raw.githubusercontent.com/CharlyEstudio/CharlyEstudio.github.io/main/assets/projects/terraform-aws.png");
+      background-image: -moz-linear-gradient(180deg, rgba(0, 0, 0, 0.01) 60%, black 100%), url("https://raw.githubusercontent.com/CharlyEstudio/CharlyEstudio.github.io/main/assets/projects/terraform-aws.png");
+      background-image: -webkit-linear-gradient(270deg, rgba(0, 0, 0, 0.01) 60%, #000000 100%), url("https://raw.githubusercontent.com/CharlyEstudio/CharlyEstudio.github.io/main/assets/projects/terraform-aws.png");
+      background: -webkit-linear-gradient(270deg, rgba(0, 0, 0, 0.01) 60%, #000000 100%), url("https://raw.githubusercontent.com/CharlyEstudio/CharlyEstudio.github.io/main/assets/projects/terraform-aws.png");
       background-repeat: no-repeat;
       background-size: cover;
       object-fit: cover;
       background-position: center; }
     .projects__card--five {
-      background-image: linear-gradient(180deg, rgba(255, 255, 255, 0.01) 60%, black 100%), url("../assets/projects/pat-des.jpg");
-      background-image: -moz-linear-gradient(180deg, rgba(0, 0, 0, 0.01) 60%, black 100%), url("../assets/projects/pat-des.jpg");
-      background-image: -webkit-linear-gradient(270deg, rgba(0, 0, 0, 0.01) 60%, #000000 100%), url("../assets/projects/pat-des.jpg");
-      background: -webkit-linear-gradient(270deg, rgba(0, 0, 0, 0.01) 60%, #000000 100%), url("../assets/projects/pat-des.jpg");
+      background-image: linear-gradient(180deg, rgba(255, 255, 255, 0.01) 60%, black 100%), url("https://raw.githubusercontent.com/CharlyEstudio/CharlyEstudio.github.io/main/assets/projects/pat-des.jpg");
+      background-image: -moz-linear-gradient(180deg, rgba(0, 0, 0, 0.01) 60%, black 100%), url("https://raw.githubusercontent.com/CharlyEstudio/CharlyEstudio.github.io/main/assets/projects/pat-des.jpg");
+      background-image: -webkit-linear-gradient(270deg, rgba(0, 0, 0, 0.01) 60%, #000000 100%), url("https://raw.githubusercontent.com/CharlyEstudio/CharlyEstudio.github.io/main/assets/projects/pat-des.jpg");
+      background: -webkit-linear-gradient(270deg, rgba(0, 0, 0, 0.01) 60%, #000000 100%), url("https://raw.githubusercontent.com/CharlyEstudio/CharlyEstudio.github.io/main/assets/projects/pat-des.jpg");
       background-repeat: no-repeat;
       background-size: cover;
       object-fit: cover;
       background-position: center; }
     .projects__card--six {
-      background-image: linear-gradient(180deg, rgba(255, 255, 255, 0.01) 60%, black 100%), url("../assets/projects/fmo.png");
-      background-image: -moz-linear-gradient(180deg, rgba(0, 0, 0, 0.01) 60%, black 100%), url("../assets/projects/fmo.png");
-      background-image: -webkit-linear-gradient(270deg, rgba(0, 0, 0, 0.01) 60%, #000000 100%), url("../assets/projects/fmo.png");
-      background: -webkit-linear-gradient(270deg, rgba(0, 0, 0, 0.01) 60%, #000000 100%), url("../assets/projects/fmo.png");
+      background-image: linear-gradient(180deg, rgba(255, 255, 255, 0.01) 60%, black 100%), url("https://raw.githubusercontent.com/CharlyEstudio/CharlyEstudio.github.io/main/assets/projects/fmo.png");
+      background-image: -moz-linear-gradient(180deg, rgba(0, 0, 0, 0.01) 60%, black 100%), url("https://raw.githubusercontent.com/CharlyEstudio/CharlyEstudio.github.io/main/assets/projects/fmo.png");
+      background-image: -webkit-linear-gradient(270deg, rgba(0, 0, 0, 0.01) 60%, #000000 100%), url("https://raw.githubusercontent.com/CharlyEstudio/CharlyEstudio.github.io/main/assets/projects/fmo.png");
+      background: -webkit-linear-gradient(270deg, rgba(0, 0, 0, 0.01) 60%, #000000 100%), url("https://raw.githubusercontent.com/CharlyEstudio/CharlyEstudio.github.io/main/assets/projects/fmo.png");
       background-repeat: no-repeat;
       background-size: cover;
       object-fit: cover;
       background-position: center; }
     .projects__card--seven {
-      background-image: linear-gradient(180deg, rgba(255, 255, 255, 0.01) 60%, black 100%), url("../assets/projects/app-fmo.webp");
-      background-image: -moz-linear-gradient(180deg, rgba(0, 0, 0, 0.01) 60%, black 100%), url("../assets/projects/app-fmo.webp");
-      background-image: -webkit-linear-gradient(270deg, rgba(0, 0, 0, 0.01) 60%, #000000 100%), url("../assets/projects/app-fmo.webp");
-      background: -webkit-linear-gradient(270deg, rgba(0, 0, 0, 0.01) 60%, #000000 100%), url("../assets/projects/app-fmo.webp");
+      background-image: linear-gradient(180deg, rgba(255, 255, 255, 0.01) 60%, black 100%), url("https://raw.githubusercontent.com/CharlyEstudio/CharlyEstudio.github.io/main/assets/projects/app-fmo.webp");
+      background-image: -moz-linear-gradient(180deg, rgba(0, 0, 0, 0.01) 60%, black 100%), url("https://raw.githubusercontent.com/CharlyEstudio/CharlyEstudio.github.io/main/assets/projects/app-fmo.webp");
+      background-image: -webkit-linear-gradient(270deg, rgba(0, 0, 0, 0.01) 60%, #000000 100%), url("https://raw.githubusercontent.com/CharlyEstudio/CharlyEstudio.github.io/main/assets/projects/app-fmo.webp");
+      background: -webkit-linear-gradient(270deg, rgba(0, 0, 0, 0.01) 60%, #000000 100%), url("https://raw.githubusercontent.com/CharlyEstudio/CharlyEstudio.github.io/main/assets/projects/app-fmo.webp");
       background-repeat: no-repeat;
       background-size: cover;
       object-fit: cover;
       background-position: center; }
     .projects__card--eight {
-      background-image: linear-gradient(180deg, rgba(255, 255, 255, 0.01) 60%, black 100%), url("../assets/projects/oxxo.png");
-      background-image: -moz-linear-gradient(180deg, rgba(0, 0, 0, 0.01) 60%, black 100%), url("../assets/projects/oxxo.png");
-      background-image: -webkit-linear-gradient(270deg, rgba(0, 0, 0, 0.01) 60%, #000000 100%), url("../assets/projects/oxxo.png");
-      background: -webkit-linear-gradient(270deg, rgba(0, 0, 0, 0.01) 60%, #000000 100%), url("../assets/projects/oxxo.png");
+      background-image: linear-gradient(180deg, rgba(255, 255, 255, 0.01) 60%, black 100%), url("https://raw.githubusercontent.com/CharlyEstudio/CharlyEstudio.github.io/main/assets/projects/oxxo.png");
+      background-image: -moz-linear-gradient(180deg, rgba(0, 0, 0, 0.01) 60%, black 100%), url("https://raw.githubusercontent.com/CharlyEstudio/CharlyEstudio.github.io/main/assets/projects/oxxo.png");
+      background-image: -webkit-linear-gradient(270deg, rgba(0, 0, 0, 0.01) 60%, #000000 100%), url("https://raw.githubusercontent.com/CharlyEstudio/CharlyEstudio.github.io/main/assets/projects/oxxo.png");
+      background: -webkit-linear-gradient(270deg, rgba(0, 0, 0, 0.01) 60%, #000000 100%), url("https://raw.githubusercontent.com/CharlyEstudio/CharlyEstudio.github.io/main/assets/projects/oxxo.png");
       background-repeat: no-repeat;
       background-size: cover;
       object-fit: cover;
